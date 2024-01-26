@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,500;0,600;0,700;0,800;1,400;1,500;1,600;1,700&display=swap');
+
+@import "./components_scss/resets";
+@import "./components_scss/variables";
+@import "./components_scss/nav";
+@import "./components_scss/header";
+@import "./components_scss/about";
+@import "./components_scss/project";
+@import "./components_scss/review";
+@import "./components_scss/footer";
+
+body{
+    background-color: #211f22;
+}
