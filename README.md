@@ -9,13 +9,13 @@ This repository contains the code for demo portfolio website. The website is bui
 
 ## Tools Used
 - **SASS**: Used for writing more efficient and maintainable CSS.
-- **Netlify**: Used for deploying the website. -> ("")
+- **Netlify**: Used for deploying the website. -> ("https://sass-demo-portfolio.netlify.app/")
 
 ## Running Locally
 To run this website locally, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/yourusername/portfolio-website.git`
-2. Navigate into the directory: `cd portfolio-website`
+1. Clone the repository: `git clone https://github.com/lakshya-26/sass-demo-portfolio.git`
+2. Navigate into the directory: `cd sass-demo-portfolio`
 3. Install dependencies: `npm install`
 4. Compile SASS to CSS: `npm run sass`(you can see the css file which I have attached to the github repo but I would recommend you to go through the sass file which will be easier to understand.)
 5. Open `index.html` in your browser
